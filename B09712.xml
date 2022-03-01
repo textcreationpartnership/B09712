@@ -1,0 +1,786 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some of the Quakers contradictions which they writ , &amp;c. as suted the times and their own interests; by which 'twill appear, that the highest pretenders, are the greatest deceivers.</title>
+            <author>Pennyman, John, 1628-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09712</idno>
+            <idno type="OCLC"> 80923337</idno>
+            <idno type="STC">Wing P1417A</idno>
+            <idno type="STC">ESTC R187055</idno>
+            <idno type="EEBO-CITATION">80923337</idno>
+            <idno type="OCLC">ocm 80923337</idno>
+            <idno type="VID">191946</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09712)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191946)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2896:20a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some of the Quakers contradictions which they writ , &amp;c. as suted the times and their own interests; by which 'twill appear, that the highest pretenders, are the greatest deceivers.</title>
+                  <author>Pennyman, John, 1628-1706.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed 1696. and are to be sold by J. Gwillim in Bishopsgate-street, and S. Clark in George-Yard, booksellers,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>P. 11 dated and signed: J.P. [i.e. John Pennyman] Newyears Day, 1696.</note>
+                  <note>Imprint from colophon on p. 8.</note>
+                  <note>Printed in two columms.</note>
+                  <note>Imperfect: cropped, stained, and edges mutilated.</note>
+                  <note>Reproduction of original in the Haverford College Library.</note>
+                  <note>With: Some of the Quakers contradictory testamonies about oaths and swearing. London, : Printed in 1696. and are to be sold ... at J. Gwillims ..., and S. Clark's ..., booksellers, [1696] -- An abstract of a large printed paper, from Pensilvania, intituled, A brief admonition to the elders and ministers of the people called Quakers. London, : [s.n.], printed in the month called July, 1698.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fox, George, 1624-1691 --  Early works to 1800.</term>
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+               <term>Quakers --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:191946:1" rendition="simple:additions"/>
+            <pb facs="tcp:191946:2" rendition="simple:additions"/>
+            <pb facs="tcp:191946:2" rendition="simple:additions"/>
+            <head>Some of the <hi rend="blackletterType">Quakers</hi> CONTRADICTIONS which they writ, <hi>&amp;c.</hi> as ſuted the Times and their own Intereſts; by which 'twill appear, that the Higheſt <hi rend="blackletterType">Pretenders,</hi> are the Greateſt <hi rend="blackletterType">Deceivers.</hi>
+            </head>
+            <div n="1" type="section">
+               <head>
+                  <hi>Section</hi> I.</head>
+               <div type="Quaker_opinions">
+                  <p n="1">1. OUR giving forth Papers or printed Books, it is from the immediate Eter<g ref="char:EOLhyphen"/>nal Spirit of GOD.</p>
+                  <p n="2">2. You might AS WELL have condemned the Scriptures to the Fire, as our Queries.</p>
+                  <p n="3">3. You are now anſwer'd from the Mouth of the LORD
+<note n="1" place="margin">G. Fox <hi>and</hi> Rich. Hubberthorn, <hi>Truth's Defence,</hi> p. 2, 104, 107. <hi>printed</hi> 1653.</note>.</p>
+                  <p n="4">4. If ever you own the Prophets, Chriſt or the Apoſtles, you will own our Writings, which are given forth by the ſame Spirit and Power
+<note n="2" place="margin">G. F. <hi>Anſw. to the</hi> Weſtmoreland <hi>Pet.</hi> p. 30. 1653.</note>.</p>
+                  <p n="5">5. Que. <hi>Do you</hi> (i. e. Quakers) <hi>eſteem your Speakings, to be of as great Authority as any Chap<g ref="char:EOLhyphen"/>ter in the Bible? G. W.</hi> anſwers, That which is ſpoken from the Spirit of Truth in any, is of as great Authority as the Scriptures and Chapters are, and GREATER
+<note n="3" place="margin">G. Whitehead<hi>'s Ser. Apol.</hi> p. 49.</note>.</p>
+               </div>
+               <div type="contradictory_Quaker_opinions">
+                  <p n="1">1. WE are groſly abus'd, and our Inten<g ref="char:EOLhyphen"/>tion and Principle, which NEVER was, to bring our Books in compariſon with the Scriptures. [<hi>Is not this a groſs <g ref="char:V">Ʋ</g>ntruth? compare it with their former Writings.</hi>]</p>
+                  <p n="2">2. We prefer the Bible before all the Books extant in the World
+<note n="1" place="margin">G. W. <hi>Quakers Plainneſs,</hi> &amp;c. <hi>p.</hi> 71. 1674.</note>; [<hi>and yet formerly re<g ref="char:EOLhyphen"/>proved</hi> John Chandler (<hi>at a Meeting at the</hi> Bull and Mouth) <hi>for having given the Scriptures Preference before their Books: And is not this a plain Contradiction?</hi>]</p>
+               </div>
+            </div>
+            <div n="2" type="section">
+               <head>
+                  <hi>Section</hi> II.</head>
+               <div type="Quaker_opinions">
+                  <p n="1">1. THE Scriptures are not the Word of GOD
+<note n="1" place="margin">G. Fox, <hi>&amp;c. Firebrand,</hi> &amp;c. <hi>p.</hi> 159. 2d <hi>Part.</hi> 1678.</note>.</p>
+                  <p n="2">2. The Scripture is not the Word of GOD, as thou blaſphemouſly affirmed
+<note n="2" place="margin">G. F. <hi>Great Myſtery,</hi> p. 240. 1659.</note>.</p>
+                  <p n="3">3. How can, or dare any to ſay without the higheſt Blaſphemy, that the Scripture is the Word of GOD
+<note n="3" place="margin">G. Biſhop, <hi>Mene Tekel,</hi> &amp;c. <hi>p.</hi> 22. 1659.</note>?</p>
+                  <p n="4">4. The <hi>Letter (i. e.</hi> the Scripture) is a De<g ref="char:EOLhyphen"/>claration of the Word, the <hi rend="blackletterType">Husk</hi>
+                     <note n="4" place="margin">G. F. <hi>Way to the Kingdom,</hi> p. 8. 1655.</note>.</p>
+                  <p n="5">5. The <hi>Letter</hi> [<hi>i. e. the Scripture</hi>] is <hi rend="blackletterType">Duſt</hi> and <hi rend="blackletterType">Death</hi>
+                     <note n="5" place="margin">G. F. &amp;c. <hi>Brief Diſcovery,</hi> p. 9. 1653.</note>.</p>
+                  <p n="6">6. That which is written is the <hi>Letter,</hi> which is <hi rend="blackletterType">Death</hi> and <hi rend="blackletterType">killeth</hi>
+                     <note n="6" place="margin">G. W. <hi>Iſhmael,</hi> &amp;c. p. 10.</note>.</p>
+                  <p n="7">7. Thou art one of them that fouls with thy Feet, <hi>Ezek.</hi> 34.18. that hath nothing but <hi rend="blackletterType">Husk</hi> which is fit for nothing but <hi rend="blackletterType">Swine</hi>
+                     <note n="7" place="margin">G. Fox, <hi>&amp;c. Truth's Def.</hi> p. 53. 1653.</note>.</p>
+                  <p n="8">8. The Quakers do not call the <hi>Letter</hi> the Rule; and the four Books of <hi>Matthew, Mark, Luke</hi> and <hi>John</hi> the NEW-TESTAMENT and Goſpel, as thou and thy Generation do
+<note n="8" place="margin">G. W. <hi>and</hi> Chr. At<g ref="char:EOLhyphen"/>kinſon, <hi>David's Enemies,</hi> &amp;c. p. 7. 1655.</note>.</p>
+                  <p n="9">9. <hi>
+                        <hi>But they frequently call'd them</hi> Earthly Letter,</hi> and <hi>Carnal Letter</hi>
+                     <note n="9" place="margin">G.F. <hi>&amp;c. Truth's Def.</hi> p. 14, 28, 56, 60.</note>.</p>
+               </div>
+               <div type="contradictory_Quaker_opinions">
+                  <p n="1">1. WE ſay Holy Writ is the declared <hi>Fundamental</hi> Law of Heaven
+<note n="1" place="margin">W. Penn, <hi>Engl. Preſent Int.</hi> p. 36. 1675.</note>.</p>
+                  <p n="2">2. We believe the Holy Scriptures of the Old and NEW-TESTAMENT were given forth by Divine Inſpiration
+<note n="2" place="margin">G. W. <hi>Innocency,</hi> &amp;c. p. 31. 1693.</note>.</p>
+                  <p n="3">3. The Holy Scriptures of the Old and NEW-TESTAMENT are of Divine Authori<g ref="char:EOLhyphen"/>ty, as being given by Inſpiration from GOD
+<note n="3" place="margin">
+                        <hi>Quakers Vind.</hi> &amp;c. p. 4. 1693. <hi>ſign'd by</hi> G. W. <hi>and</hi> 30 <hi>more.</hi>
+                     </note>:</p>
+                  <p n="4">4. That they [<hi>i. e. Quakers</hi>] ſay, the <hi>Holy Scripture</hi> is <hi>Carnal, Duſt, Death,</hi> and <hi>killeth,</hi> &amp;c.— We do, in the holy Fear of Almighty <hi>GOD,</hi> and in behalf of the ſaid People, declare and teſtify, That all theſe, and all other his Accu<g ref="char:EOLhyphen"/>ſations of the ſame Kind, or depending there<g ref="char:EOLhyphen"/>upon, are utterly falſe, wicked and malicious, and never ſo <hi>believed,</hi> ſo <hi>ſaid,</hi> nor ſo affirmed by us
+<note n="4" place="margin">
+                        <hi>Charitable Eſſay,</hi> &amp;c. p. 8. 1693. <hi>ſign<g ref="char:EOLhyphen"/>ed by</hi> G.W. <hi>and</hi> 12 <hi>more of their Preachers.</hi>
+                     </note>. [<hi>Now my Requeſt to</hi> G. W. <hi>and the reſt of the Subſcribers, is this, That they would view the Quotations on the other Side; and if they find that they formerly call'd the Scriptures</hi> Carnal, Duſt, Death, <hi>&amp;c. as they have done, that they would be ſo honeſt as to take ſhame to themſelves, and acknowledg their Error therein, and that they have wrongfully accuſed</hi> Fra. Bugg <hi>for thoſe Cita<g ref="char:EOLhyphen"/>tions.</hi>]</p>
+                  <pb facs="tcp:191946:3" rendition="simple:additions"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:191946:3" rendition="simple:additions"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:191946:4" rendition="simple:additions"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:191946:4" rendition="simple:additions"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:191946:5"/>
+                  <p>
+                     <gap reason="illegible" resp="#UOM" extent="1 line">
+                        <desc>〈1 line〉</desc>
+                     </gap> 
+                     <hi>OF GOD,</hi> and calls it Blaſphemy in any to ſay ſo; yet, it is to be obſerved, he gives that very Stile to his own Writings, as in his <hi>Vials of Wrath,</hi> &amp;c. printed 1654. where he ſays—<hi>And to you all this is THE WORD OF GOD,</hi> p. 7. and in <hi>p.</hi> 9. and <hi>p.</hi> 12. are the ſame word. And in <hi>the Way to the Kingdom,</hi> &amp;c. 1655. <hi>p.</hi> 14. he has them again, <hi>viz. This is THE WORD OF GOD.</hi> And in his <hi>ſeveral Papers,</hi> &amp;c. 1671. <hi>p.</hi> 62. he has the ſame over again. And I believe I could quote above 100 more Sentences of the like Import out of their former Writings, but here are enough at pre<g ref="char:EOLhyphen"/>ſent. And as to their denial of the Charge, that they ſhould ſay the <hi>Holy Scripture is Duſt,</hi> &amp;c. their Evaſion or Quib<g ref="char:EOLhyphen"/>ble, I ſuppoſe, lies in theſe words, <hi>viz. Holy Scriptures,</hi> becauſe in thoſe Days they did not call the <hi>Scriptures Holy;</hi> but on the contrary, call'd them <hi>EARTHLY LETTER, CARNAL LETTER, D<g ref="char:V">Ʋ</g>ST,</hi> &amp;c. as before-mentioned.]</p>
+               </div>
+            </div>
+            <div n="3" type="section">
+               <head>
+                  <hi>Section</hi> III.</head>
+               <div type="Quaker_opinions">
+                  <p n="1">1. WE have thouſands at our Meetings, and none of us [<hi>Quakers</hi>] dare ſpeak a word, but as eternally moved of the LORD
+<note n="1" place="margin">
+                        <hi>A true Account,</hi> &amp;c. <hi>p.</hi> 18. 1663.</note>. [<hi>Never was a greater <g ref="char:V">Ʋ</g>ntruth than this printed and publiſhed to the World by any Mortals whatſoever.</hi>]</p>
+                  <p n="2">2. They are <hi rend="blackletterType">Conjurers</hi> and <hi rend="blackletterType">Diviners,</hi> and their Preaching from <hi rend="blackletterType">Conjuration</hi> that is not ſpoken from the Mouth of the LORD
+<note n="2" place="margin">G. F. Saul<hi>'s Errand,</hi> &amp;c. <hi>p.</hi> 7. 1654.</note>.</p>
+                  <p n="3">3. All you that ſpeak, and not from the Mouth of the <hi>LORD,</hi> are <hi rend="blackletterType">falſe Prophets</hi>
+                     <note n="3" place="margin">G. F. <hi>Anſw. to the Weſt Pet.</hi> p. 25. 1653.</note>.</p>
+                  <p n="4">4. How can you be Miniſters of the Spirit, if you be not Infallible
+<note n="4" place="margin">G. F. <hi>Great Mystery,</hi> p. 33, 82, 96, 107, 267.</note>?</p>
+                  <p n="5">5. And how can you but delude People, if you be not infallible
+<note n="4" place="margin">G. F. <hi>Great Mystery,</hi> p. 33, 82, 96, 107, 267.</note>?</p>
+                  <p n="6">6. Thou ſay'ſt, <hi>The holieſt Man that is, can<g ref="char:EOLhyphen"/>not give an infallible Character of another Man. G. F.</hi> anſwers, Haſt not thou, in this, ſhewed thy ſelf to be no Miniſter of Chriſt, or of the Spirit, that cannot give an <hi>infallible Character</hi> of another Man? How canſt thou ſee an holy Man from an unholy Man, that cannot give an <hi>infallible Character</hi> of any Man's State
+<note n="4" place="margin">G. F. <hi>Great Mystery,</hi> p. 33, 82, 96, 107, 267.</note>
+                  </p>
+                  <p n="7">7. Thou being not infallible, thou art not in the Spirit, and ſo art not a Miniſter. <hi>But</hi> George Fox <hi>ſays,</hi> The Quakers are the ONLY Miniſters of Chriſt
+<note n="4" place="margin">G. F. <hi>Great Mystery,</hi> p. 33, 82, 96, 107, 267.</note>.</p>
+               </div>
+               <div type="contradictory_Quaker_opinions">
+                  <p n="1">1. WE are moſt horribly abus'd in ſaying, that we pretend all our Miniſters to be <hi>infallible</hi>
+                     <note n="1" place="margin">W. Pen<hi>'s Rebuke to</hi> 21 <hi>Divines,</hi> p. 22. 1674.</note>. [<hi>And yet but the very Year before the ſaid</hi> W. P. <hi>writ thus</hi>] viz.</p>
+                  <p n="2">2. Our Miniſtry is of GOD, it ſtands in the Power of the living ſpiritual Gift of GOD
+<note n="2" place="margin">Judas <hi>and the Jews,</hi> &amp;c. <hi>p.</hi> 43. 1673.</note>. <hi>And</hi> G. Fox <hi>exhorted the Parliament, in the Year</hi> 1659, <hi>in theſe words,</hi> viz.</p>
+                  <p n="3">3. Let none have the Name of a Miniſter, but ſuch who are able to ſatisfy all Doubts, and all Queſtions; and for to convince and ſtop the Mouths of all Gainſayers and Oppo<g ref="char:EOLhyphen"/>ſers
+<note n="3" place="margin">G. F. <hi>to the Parl,</hi> &amp;c. <hi>p.</hi> 6. 1659.</note>. [<hi>Then infallible to be ſure.</hi>]</p>
+                  <p n="4">4. The LORD hath given his powerful Mi<g ref="char:EOLhyphen"/>niſtry <hi>(meaning themſelves)</hi> the Gift of the Holy Ghoſt, as it was in the <hi>Apoſtles</hi> Days
+<note n="4" place="margin">E. B<hi>'s Works,</hi> p. 196.</note>. [<hi>And, pray, were not the Apoſtles Infallible?</hi>]</p>
+                  <p n="5">5. And thou, and you all, that ſpeak, and write, and not from GOD, IMMEDIATELY and INFALLIBLY, as the Apoſtles did, and Prophets, and Chriſt,— you are all under the Curſe,
+<note n="5" place="margin">G.F. <hi>Great Myſt.</hi> p. 98.</note> 
+                     <hi>&amp;c.</hi>
+                  </p>
+                  <p>Thou canſt not know the Scripture, but by the SAME DEGREE of the Spirit the Pro<g ref="char:EOLhyphen"/>phets and Apoſtles had
+<note n="6" place="margin">
+                        <hi>p.</hi> 213.</note>. [<hi>I think here is not only enough to ſhew their Contradiction, but alſo, that they were not abus'd in ſaying,</hi> they pretend all their Miniſtry to be infallible.]</p>
+               </div>
+            </div>
+            <div n="4" type="section">
+               <head>
+                  <hi>Section</hi> IV.</head>
+               <div type="Quaker_opinions">
+                  <p n="1">1. THE Quakers — can diſcern who are Saints, and who are Devils, and who are Apoſtates, without ſpeaking ever a word
+<note n="1" place="margin">G. F<hi>'s Great Mystery,</hi> p. 89.</note>.</p>
+                  <p n="2">2. We need none to give us <hi>Diſcerning</hi> and <hi>Judgment,</hi> Chriſt hath furniſh'd us already, and doth on ALL Occaſions
+<note n="2" place="margin">Judas <hi>and the Jews,</hi> &amp;c. <hi>p.</hi> 58. 1673.</note>.</p>
+               </div>
+               <div type="contradictory_Quaker_opinions">
+                  <p>[But did they diſcern the two German Cheats, (who pretended themſelves to be of great Parentage, and whom they hugg'd, embrac'd, and provided for, and gloried in, as two of their Proſelytes) till their Wickedneſs broke forth, and till they accuſed each other of many vile Practi<g ref="char:EOLhyphen"/>ces
+<note n="*" place="margin">
+                        <hi>Anno</hi> 1670.</note>? Nay, they could not diſcern ſeveral of their own Miniſters, who, whilſt ſuch, were guilty of Whoredom and the like, till they themſelves, or others, made a Diſcove<g ref="char:EOLhyphen"/>ry of them. Endleſs would it be to repeat their want of diſcerning in theſe and the like Matters; but here are enow to ſhew they have not that diſcerning they ſo vainly and nauſeouſly boaſt of.]</p>
+               </div>
+            </div>
+            <div n="5" type="section">
+               <pb n="3" facs="tcp:191946:5" rendition="simple:additions"/>
+               <head>
+                  <hi>Section</hi> V.</head>
+               <div type="Quaker_opinions">
+                  <p n="1">1. THE <hi>Quakers</hi> are in the Truth, and NONE but they.—Come Proteſtants, Presbyteri<g ref="char:EOLhyphen"/>ans, Independants, Baptiſts, Fifth-Monarchy-men, Seventh-day Sabbath-men, and Fa<g ref="char:EOLhyphen"/>mily of Love; the <hi>Quaker</hi> denies you ALL
+<note n="1" place="margin">
+                        <hi>The Quakers Challenge,</hi> &amp;c. <hi>p.</hi> 2, 3. 1668.</note>.</p>
+                  <p n="2">2. The Tabernacle of GOD is with you; and His Dwelling-place is among you; and ONLY among you is GOD known
+<note n="2" place="margin">E. B<hi>'s Works,</hi> p. 64.</note>.</p>
+                  <p n="3">3. All that ever own GOD and Salvation, ſhall own us
+<note n="3" place="margin">Ibid. <hi>p.</hi> 318.</note>.</p>
+                  <p n="4">4. And <hi>John Stubs</hi>
+                     <note n="4" place="margin">
+                        <hi>In his Sermon at</hi> Devonſhire-<hi>Houſe,</hi> 1670.</note> declared, That <hi>none could truly call GOD Father but Friends,</hi> [<hi>i. e.</hi> the Quakers, whom after he had highly extoll'd, further ſaid] <hi>I know thouſands of Friends that are free from Sin. [This being a notorious <g ref="char:V">Ʋ</g>ntruth, I reproved him for it in private. But I muſt con<g ref="char:EOLhyphen"/>feſs, I never found him, nor any of their Miniſters, ever contradict themſelves, in that high Character they give of themſelves: So that this Section is not in two Columns.</hi>]</p>
+               </div>
+            </div>
+            <div n="6" type="section">
+               <head>
+                  <hi>Section</hi> VI.</head>
+               <div type="Quaker_opinions">
+                  <p n="1">1. WE [<hi>i. e. Quakers</hi>] are of One Mind, and Soul
+<note n="1" place="margin">E. B<hi>'s Works,</hi> p. 462.</note>.</p>
+               </div>
+               <div type="contradictory_Quaker_opinions">
+                  <p>[Witneſs the great Differences, and Diviſions, that are among them, both in <hi>England,</hi> and beyond-Seas: And if to be ſo divided, be to be of one Mind and Soul, then in<g ref="char:EOLhyphen"/>deed they are the People that are ſo.]</p>
+               </div>
+            </div>
+            <div n="7" type="section">
+               <head>
+                  <hi>Section</hi> VII.</head>
+               <div type="Quaker_opinions">
+                  <p n="1">1. THE Prieſts of the World are <hi rend="blackletterType">Conju<g ref="char:EOLhyphen"/>rers,</hi> Thieves and Robbers, Antichriſts, Witches, Devils, Scarlet-colour'd Beaſts; re<g ref="char:EOLhyphen"/>ally they are <hi rend="blackletterType">Blood-hounds</hi>
+                     <note n="1" place="margin">
+                        <hi>See</hi> G. Fox, <hi>&amp;c. A brief Diſcovery,</hi> &amp;c. <hi>p.</hi> 7, 8, 9, 10. <hi>for much more of this,</hi> Ann. 1653.</note>.</p>
+                  <p n="2">2. The Light condemns thee [<hi>i. e. Mr.</hi> Ben<g ref="char:EOLhyphen"/>net <hi>a Miniſter</hi>] and ALL thy Generation eter<g ref="char:EOLhyphen"/>nally—Thou dead Beaſt, thou polluted Beaſt, thou Sorcerer—O thou dark Beaſt and Conju<g ref="char:EOLhyphen"/>rer
+<note n="2" place="margin">
+                        <hi>See more of this in</hi> E. Bur. <hi>Works,</hi> p. 29, 30, 31.</note>.</p>
+                  <p n="3">3. Scarlet-coloured Beaſt, painted Beaſt—Brazen-fac'd thou art, for thou art a Beaſt, thou blind Sot, thou dark Sot, <hi>&amp;c</hi>
+                     <note n="3" place="margin">
+                        <hi>See</hi> G. Fox<hi>'s Truth's Defence,</hi> &amp;c. <hi>p</hi> 81, 82. <hi>for more of this kind.</hi>
+                     </note>.</p>
+                  <p n="4">4. Behold your Prieſt, fallible errable Prieſt, ſcoffing independent Prieſt, ungodly Prieſt, Mountebank Prieſt, taunting Prieſt, ſtingy Prieſt, mercenary <hi>John Faldo,</hi> a Quack, a religious Bone-ſetter, the Prieſts break-neck
+<note n="4" place="margin">
+                        <hi>Mr.</hi> Faldo<hi>'s Anſw. and Vindi<g ref="char:EOLhyphen"/>cation of</hi> 21 <hi>Divines, againſt</hi> W. Penn, <hi>p.</hi> 93. Ann. 1675.</note>.</p>
+                  <p n="5">5. The idle <hi rend="blackletterType">gormondizing</hi> Prieſts of <hi>England</hi>—No ſort of People have been ſo univerſally through Ages, the Bane of Soul and Body of the Univerſe, as that <hi rend="blackletterType">abominable</hi> Tribe, for whom the Theatre of GOD's moſt dreadful Vengeance, is reſerved to act their eternal Tra<g ref="char:EOLhyphen"/>gedy upon, <hi>&amp;c</hi>
+                     <note n="5" place="margin">W. Penn <hi>Guide Miſtaken,</hi> &amp;c. <hi>p.</hi> 18. 1668.</note>.</p>
+                  <p n="6">6. Old canker'd Apoſtate, unruly Beaſt, Impoſtor or Renegade, Libertine, Ranting Spi<g ref="char:EOLhyphen"/>rit, Son of <hi>Belial.</hi> [<hi>See more of this Nature in</hi> W. Penn, <hi>&amp;c.</hi> Alexander, <hi>&amp;c.</hi> p. 3, 7, 12. 1673. <hi>in anſwer to</hi> Mr. Mucklowe <hi>a Quaker.</hi>] <hi>Hear alſo what</hi> Geo. Whitehead <hi>calls him, and ſome other diſſenting</hi> Quakers, viz. <hi rend="blackletterType">Wolves, Dogs, Devils incarnate, and the like, in his Preface to</hi> Judg<g ref="char:EOLhyphen"/>ment fixt, 1682.</p>
+               </div>
+               <div type="contradictory_Quaker_opinions">
+                  <p>MEN that are angry for GOD, paſſio<g ref="char:EOLhyphen"/>nate for Chriſt; that <hi rend="blackletterType">call Names</hi> for Religion, and perſecute for Faith, may tell us they are Chriſtians if they will; but no bo<g ref="char:EOLhyphen"/>dy would know them to be ſuch by their Fruits; to be ſure [<hi>ſaith</hi> W. Penn, <hi>and ſo ſay I</hi>] they are no Chriſtians of Chriſt's making
+<note n="1" place="margin">W. Penn<hi>'s Addreſs to Prot.</hi> &amp;c. <hi>p.</hi> 242. 1679.</note>.</p>
+               </div>
+            </div>
+            <div n="8" type="section">
+               <head>
+                  <hi>Section</hi> VIII.</head>
+               <div type="Quaker_opinions">
+                  <p n="1">1. LET all thoſe Abby-lands, Glebe-lands, that are given to the Prieſts, be given to the poor of the Nation
+<note n="1" place="margin">G. Fox <hi>to the Parl. of the Com. W.</hi> &amp;c. <hi>p.</hi> 8. 1659.</note>.</p>
+                  <pb n="4" facs="tcp:191946:6"/>
+                  <p n="2">2. Slay <hi>Baal, Baal</hi> muſt be <hi>ſlain;</hi> All the HIRELINGS MUST BE TURNED OUT OF THE KINGDOM, who have pretended that GOD ſent them—
+<note n="2" place="margin">G. F. <hi>News out of the North,</hi> &amp;c. <hi>p.</hi> 31. 1655.</note>
+                  </p>
+                  <p n="3">3. Away with Cap-men and Coif-men, as they are called—.</p>
+                  <p n="4">4. Away with all theſe Counſellors, that will not tell Men the Law without 20 <hi>s.</hi> or 10 <hi>s</hi> or 30 <hi>s</hi>
+                     <note n="3" place="margin">Ibid. <hi>p.</hi> 5.</note>.</p>
+                  <p n="5">5. Let all thoſe <hi>Fines</hi> that belong to Lords of Mannors be given to poor People, for Lords have enough
+<note n="4" place="margin">Idem, <hi>p.</hi> 8.</note>.</p>
+                  <p n="6">6. If you query, how you ſhould do with the Impropriators? Sell all the Glebe-lands—and all the late King's <hi>Parks,</hi> and his <hi>Rents</hi>—to give to the Impropriators
+<note n="5" place="margin">G.F. <hi>Papers to the Parliament about Tythes,</hi> p. 63, 65. 1659.</note>.</p>
+                  <p n="7">7. You ſhould have ſold all the Colleges and their Lands, and give them to the Poor
+<note n="6" place="margin">Idem. <hi>p.</hi> 65.</note>.</p>
+               </div>
+               <div type="contradictory_Quaker_opinions">
+                  <pb n="3" facs="tcp:191946:5" rendition="simple:additions"/>
+                  <p n="1">1. FAR be it from me, to ſolicite any thing in diminution of the juſt Rights of the Church of <hi>England;</hi> let her reſt protected where ſhe is
+<note n="1" place="margin">
+                        <hi>A Perſwaſive to Moderation, Preſace,</hi> 1686.</note>.</p>
+                  <pb n="4" facs="tcp:191946:6"/>
+                  <p n="2">2. I believe your own Conſciences tell you, that we are a <hi>harmleſs People,</hi> and would do you no harm, nor hurt, but wiſh your good
+<note n="2" place="margin">G. F. <hi>For the King and Council,</hi> &amp;c. <hi>p.</hi> 2. 1660.</note>.</p>
+                  <p n="3">3. Hath the like been done to any People, as is done to us, who are an <hi>Innocent People,</hi> and <hi>thy Friends</hi>
+                     <note n="3" place="margin">
+                        <hi>Idem,</hi> p. 5.</note>?</p>
+               </div>
+            </div>
+            <div n="9" type="section">
+               <head>
+                  <hi>Section</hi> IX.</head>
+               <div type="Quaker_opinions">
+                  <p>A Quaker ſaid, he had a Command imme<g ref="char:EOLhyphen"/>diately from Heaven, to take away the Prieſt's Hour-glaſs: which being complained of, <hi>Geo. Fox</hi> makes this Anſwer, <hi>viz.</hi> And for any being moved of the LORD to take away your Hour-glaſs from you, by the Eternal Power it is own'd
+<note n="1" place="margin">G. F. <hi>Great Myſtery,</hi> p. 77.</note>.</p>
+               </div>
+               <div type="contradictory_Quaker_opinions">
+                  <p n="1">1. HE that taketh what is none of his, as to things without, the things of this World, is a Thief, and truly ſo judged and accounted of
+<note n="1" place="margin">
+                        <hi>Wounds of an Enemy,</hi> p. 13. 1656. Miles Halhead, Tho. Salthouſe.</note>.</p>
+                  <p n="2">2. We teſtify, if any Perſon whatſoever ſhall <hi>act</hi> or ſpeak any thing that is evil, un<g ref="char:EOLhyphen"/>der a pretence of a Motion from the Spirit of GOD, we utterly deny that Motion to be of GOD
+<note n="2" place="margin">
+                        <hi>The Quakers Paper,</hi> Aug. 10. 1670.</note>.</p>
+                  <p>[<hi>And was not the taking away the Hour-glaſs that was another's, an Evil in it ſelf? and yet you ſee</hi> G. Fox <hi>(when one of his Friends pretended a Motion for it) had the confidence to own and juſtify it, and that in the Name of the LORD.</hi>]</p>
+               </div>
+            </div>
+            <div n="10" type="section">
+               <head>
+                  <hi>Section</hi> X.</head>
+               <div type="Quaker_opinions">
+                  <p n="1">1. THat is no Command from GOD to me, which he commands to another; nei<g ref="char:EOLhyphen"/>ther did any of the Saints which we read of in Scripture, act by a Command which was to another, not having the Command to them<g ref="char:EOLhyphen"/>ſelves
+<note n="1" place="margin">E. Bur. <hi>Works,</hi> p. 47.</note>.</p>
+                  <p n="2">2. You are in the Witchcraft, who obſerve Commands from without from the Letter
+<note n="2" place="margin">Idem, <hi>p.</hi> 105.</note>.</p>
+                  <p n="3">3. None are to obſerve any thing, nor teach to be obſerved, but what Chriſt (manife<g ref="char:EOLhyphen"/>ſted in their Bodies of Fleſh) doth command them
+<note n="3" place="margin">
+                        <hi>A. Defence,</hi> &amp;c. <hi>p.</hi> 16. 1659.</note>.</p>
+               </div>
+               <div type="contradictory_Quaker_opinions">
+                  <p>
+                     <hi>B<g ref="char:V">Ʋ</g>T when ſome of their own Friends pleaded for the Liberty of their Conſciences, in not obeying</hi> G. F. <hi>&amp;c. Impoſitions and unſcriptural ORDERS, then they writ thus,</hi> viz. 1. It is the Root of Ranteriſm, to aſſert that nothing is a Duty incumbent upon thee, but what thou art perſwaded is thy Duty
+<note n="1" place="margin">W. P<hi>'s Brief Exam.</hi> p. 3. 1681.</note>.</p>
+                  <p n="2">2. Holy Writ is the declared <hi>fundamental</hi> Law of Heaven
+<note n="2" place="margin">W. P<hi>'s Eng. Int.</hi> p. 36. 1675.</note>. [<hi>Surely did the Quakers re<g ref="char:EOLhyphen"/>ally believe that Holy Writ is the declared funda<g ref="char:EOLhyphen"/>mental Law,</hi> &amp;c. <hi>they would never be ſo wicked as to enjoin</hi> G. F<hi>'s unſcriptural Orders upon their own People as they do.</hi>]</p>
+               </div>
+            </div>
+            <div n="11" type="section">
+               <head>
+                  <hi>Section</hi> XI.</head>
+               <div type="Quaker_opinions">
+                  <p>KEEP cloſe to the LORD, and to the mea<g ref="char:EOLhyphen"/>ſure of himſelf made manifeſt in your own Hearts, for unto THAT you were di<g ref="char:EOLhyphen"/>rected to in the beginning, and in it is your Safety and Preſorvation to the End
+<note n="1" place="margin">E. Bur. <hi>&amp;c. An Epiſt.</hi> 1662.</note>.</p>
+               </div>
+               <div type="contradictory_Quaker_opinions">
+                  <p>
+                     <hi>B<g ref="char:V">Ʋ</g>T when the diſſenting Quakers inſiſted on their own Doctrine of not being impos'd upon in things not evil in themſelves, then they writ,</hi> viz. The Enemy is at work to ſcatter the Minds of Friends by that <hi>looſe Plea,</hi> What haſt thou to do with me? leave me to my freedom, and to the GRACE OF GOD in my ſelf
+<note n="1" place="margin">W.P. <hi>Br. Exam.</hi> p. 11.</note>, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="12" type="section">
+               <pb n="5" facs="tcp:191946:6"/>
+               <head>
+                  <hi>Section</hi> XII.</head>
+               <div type="Quaker_opinions">
+                  <p>
+                     <hi>UPON a Rumour that the</hi> Quakers Meetings <hi>were to be broken, they writ,</hi> viz. 1. Theſe Tidings do not trouble us, neither are we thereby moved, no not to BEG of any Man the countrary
+<note n="1" place="margin">E. Bur. <hi>Declarat. of Suff.</hi> p. 33. 1659.</note>.</p>
+                  <p n="2">2. And to any outward Authority we can<g ref="char:EOLhyphen"/>not SEEK
+<note n="2" place="margin">Idem, <hi>p.</hi> 40.</note>.</p>
+               </div>
+               <div type="contradictory_Quaker_opinions">
+                  <p n="1">1. WE DESIRE and REQUEST, that you would enact, or provide, that in place or in ſtead of an Oath, as the Caſes may require, our <hi>Yea</hi> and <hi>Nay</hi> may be accepted
+<note n="1" place="margin">
+                        <hi>The Caſe of Oaths to the King and Parliament,</hi> p. 6. 1673.</note>.</p>
+                  <p n="2">2. Have a due regard to our ſuffering Con<g ref="char:EOLhyphen"/>dition, we BESEECH you
+<note n="2" place="margin">
+                        <hi>Treatiſe of Oaths to the King and Parl.</hi> p. 16.</note>.</p>
+               </div>
+            </div>
+            <div n="13" type="section">
+               <head>
+                  <hi>Section</hi> XIII.</head>
+               <div type="Quaker_opinions">
+                  <p n="1">1. VVE ſubmit to all <hi>Laws</hi> and <hi>Ordi<g ref="char:EOLhyphen"/>nances</hi> of Man that relate to the paiment of <hi>Tribute, Taxations, Cuſtoms, Exciſe, Subſidy-money,</hi> and all things of this Nature, as becometh Saints to Superiors; and con<g ref="char:EOLhyphen"/>cerning theſe things, no Man can juſtly accuſe the People call'd <hi>Quakers</hi>
+                     <note n="1" place="margin">
+                        <hi>Controverſy with the Biſhops,</hi> p. 23. 1663.</note>.</p>
+                  <p n="2">2. We have always paid our Taxes, and other Dues and Duties, more than any People, according to our Abilities
+<note n="2" place="margin">
+                        <hi>Declarat. by</hi> G. Fox, G. Whitehead, <hi>Broad-ſheet,</hi> 1670.</note>.</p>
+               </div>
+               <div type="contradictory_Quaker_opinions">
+                  <p>[<hi>But do they not refuſe paiment of</hi> Tithes <hi>to the Miniſters and Impropriators? Nay, they ſay,</hi> Truth allows no paiment of Tithes at ALL under the New Covenant
+<note n="1" place="margin">T. Elwood<hi>'s Antidoce,</hi> &amp;c. p. 16. 1680.</note>. <hi>And do they not refuſe paying towards the Trained-Bands, Trophy<g ref="char:EOLhyphen"/>money, and the like? And are not theſe enjoin'd by the</hi> Laws <hi>and</hi> Ordinances <hi>of Men? And pray what are thoſe other</hi> Dues and Duties, <hi>they ſay, they pay more than any People?</hi>]</p>
+               </div>
+            </div>
+            <div n="14" type="section">
+               <head>
+                  <hi>Section</hi> XIV.</head>
+               <div type="Quaker_opinions">
+                  <p n="1">1. THOU art without in the World, in the Church of the Phariſees, who had the CHIEFEST SEATS in the <hi>Aſſemblies,</hi> and ſo art an Enemy to Chriſt.</p>
+                  <p n="2">2. Your praying in the Synagogue Chriſt did deny, and we alſo deny the ſame
+<note n="1" place="margin">G. F. <hi>and</hi> R. H. <hi>Truth's Defence,</hi> &amp;c. <hi>p.</hi> 14, 17. 1653.</note>.</p>
+               </div>
+               <div type="contradictory_Quaker_opinions">
+                  <p n="1">[1. <hi>Have not the Quakers Miniſters the</hi> CHIE<g ref="char:EOLhyphen"/>FEST SEATS <hi>in their</hi> Aſſemblies <hi>now, and ſo are E<g ref="char:EOLhyphen"/>nemies to Chriſt by their own Judgment?</hi>
+                  </p>
+                  <p n="2">2. <hi>And do not the Quakers pray in their Syna<g ref="char:EOLhyphen"/>gogues now, and ſo are to be deny'd by their own Rule?</hi>]</p>
+               </div>
+            </div>
+            <div n="15" type="section">
+               <head>
+                  <hi>Section</hi> XV.</head>
+               <div type="Quaker_opinions">
+                  <p n="1">1. YOU that talk of a natural Light, and a ſpiritual Light, produce one Scrip<g ref="char:EOLhyphen"/>ture that ſpeaks of a <hi>natural Light.</hi>
+                  </p>
+                  <p n="2">2. The <hi>Light</hi> is but ONE, which is <hi>Chriſt</hi>
+                     <note n="1" place="margin">G. F<hi>'s Way to the Kingdom,</hi> p. 3, 17. 1655.</note>.</p>
+               </div>
+               <div type="contradictory_Quaker_opinions">
+                  <p n="1">1. THE Light is <hi rend="blackletterType">Carnal,</hi> the <hi>Letter [i. e. the Scripture</hi>
+                     <note n="1" place="margin">G. F<hi>'s News,</hi> &amp;c. <hi>p.</hi> 14. 1655.</note>.]</p>
+                  <p n="2">2. I wrote not as from Man, whoſe <hi>Light</hi> is ONLY <hi>Natural</hi> and <hi>Carnal,</hi> and doth ON<g ref="char:EOLhyphen"/>LY make manifeſt Carnal Tranſgreſſions of a Carnal Law
+<note n="2" place="margin">E. Bur. <hi>Works,</hi> p. 16. 1655.</note>.</p>
+               </div>
+            </div>
+            <div n="16" type="section">
+               <head>
+                  <hi>Section</hi> XVI.</head>
+               <div type="Quaker_opinions">
+                  <p n="1">1. ARE theſe People [i.e. <hi>Quakers</hi>] ſo ſim<g ref="char:EOLhyphen"/>ple that they will not go to <hi>Law?</hi> Is not the <hi>Law</hi> open? Anſwer, If thou obſerv'd Chriſt's Words, thou would not call them Simple for not going to <hi>Law</hi> with their Ad<g ref="char:EOLhyphen"/>verſaries; for did he not ſay, <hi>If any Man will ſue thee at the Law, and take away thy Coat, let him have thy Cloak alſo?</hi> And altho the <hi>Law</hi> is open, yet they are not free to go to it
+<note n="1" place="margin">Will. Caton<hi>'s Moderate Enquirer Roſolved,</hi> &amp;c. <hi>printed in</hi> 8<hi rend="sup">o</hi>. 1658. <hi>p.</hi> 33. <hi>and reprinted in</hi> 4<hi rend="sup">o</hi>. 1671. <hi>p.</hi> 22.</note>.</p>
+                  <p n="2">2. It is laid upon us by the Spirit of Chriſt, not to ſue any Man at the Law
+<note n="2" place="margin">
+                        <hi>An Ac<g ref="char:EOLhyphen"/>count from the Children of Light,</hi> p. 19. 1660. R. Hubberthorn <hi>and</hi> J. N.</note>.</p>
+               </div>
+               <div type="contradictory_Quaker_opinions">
+                  <p>[<hi>Let their fining and impriſoning ſeveral Qua<g ref="char:EOLhyphen"/>kers of</hi> George Keith<hi>'s Friends in</hi> Penſilvania
+<note n="1" place="margin">
+                        <hi>See the Trials of</hi> Peter Boſs, G. Keith, T. Bud, <hi>and</hi> Will. Bradford, <hi>Quakers,</hi> 1692.</note>, <hi>with their Indicting Mr.</hi> Bugg <hi>at the Seſſions<g ref="char:EOLhyphen"/>houſe in the</hi> Old-Bailey, 1693; <hi>and their Ar<g ref="char:EOLhyphen"/>reſting and Impriſoning</hi> John Andrew, <hi>Februa<g ref="char:EOLhyphen"/>ry laſt, (one of their own Friends) with many more that might be named, bear Witneſs againſt them: So that it is manifeſt, notwithſtanding their printed Doctrine of not ſuing any Man at the</hi> Law; <hi>yet when it is for their worldly Intereſts, they will act quite contrary.</hi>]</p>
+               </div>
+            </div>
+            <div n="17" type="section">
+               <pb n="6" facs="tcp:191946:7"/>
+               <head>
+                  <hi>Section</hi> XVII.</head>
+               <div type="Quaker_opinions">
+                  <p n="1">1. THE Lord gave thee <hi>[Oliver Cromwell]</hi> the Necks of Princes to tread upon, and their Dominions to inherit.</p>
+                  <p n="2">2. If thou <hi>[Rich. Cromwell]</hi> chuſe the LORD for thy Counſellor—then ſhalt thou proſper, and thy Name ſhall be greater than was thy Father's; and the numberleſs Number of this now diſtreſſed People [i. e. <hi>the Quakers</hi>] will be unto thee a Strength, and ſtand by thee in thy Day of Trouble, and DEFEND thee and thy JUST GOVERNMENT.</p>
+                  <p n="3">3. We know the LORD ſhewed Favour to him [i.e. <hi>O. Cromwell</hi>] and gave him Strength, Wiſdom, Valour, and a right Spirit, and he was call'd of GOD into that great Work
+<note n="1" place="margin">E. Bur. <hi>Works,</hi> p. 552, 573, 574.</note>.</p>
+               </div>
+               <div type="contradictory_Quaker_opinions">
+                  <p n="1">1. THE Men and Miniſters which <hi>E. B.</hi> re<g ref="char:EOLhyphen"/>prehended, were thoſe very Perſecu<g ref="char:EOLhyphen"/>tors &amp; <hi>
+                        <g ref="char:V">Ʋ</g>ſurpers</hi> over Conſcience in <hi>O. P</hi>'s Days.</p>
+                  <p n="2">2. <hi>Bug</hi> has at unawares run his own Head againſt a Wall, and at once juſtified thoſe <hi>Magiſtrates</hi> and <hi>Governours,</hi> and conſequently the USURPATION of that Government
+<note n="1" place="margin">
+                        <hi>The Quakers Vindication,</hi> p. 3. <hi>againſt</hi> F. Bug; <hi>ſigned by</hi> G. Whitehead <hi>and</hi> 34 <hi>more,</hi> 1693. <hi>given to the then Parliam.</hi>
+                     </note>. [<hi>Pray read the other Column over again, and ſee if the</hi> Quakers <hi>did not juſtify thoſe very</hi> Magi<g ref="char:EOLhyphen"/>ſtrates <hi>and</hi> Governours, <hi>and the</hi> USURPATI<g ref="char:EOLhyphen"/>ON <hi>of that Government, which they endeavour to make the</hi> Parliament <hi>and others believe they did and do now condemn; and is not this great Falla<g ref="char:EOLhyphen"/>cy and Hypocriſy?</hi>]</p>
+               </div>
+            </div>
+            <div n="18" type="section">
+               <head>
+                  <hi>Section</hi> XVIII.</head>
+               <div type="Quaker_opinions">
+                  <p>GIVE Honour to whom Honour is due; but to a proud heady high-minded Man, there is <hi>no Honour</hi> due, tho he may be great in the World, and in Place to <hi>Rule
+<note n="1" place="margin">W. Smith<hi>'s Primmer,</hi> p. 43. 1668.</note>. [Is not this ſtrange Doctrine to teach Youth? is it not the way to make them rebellious againſt their Superiors?]</hi>
+                  </p>
+               </div>
+               <div type="contradictory_Quaker_opinions">
+                  <p>
+                     <hi>B<g ref="char:V">Ʋ</g>T when King</hi> Charles <hi>came into Power, then</hi> G. F. <hi>could ſay,</hi> viz. I honour all Men, <hi>(whether Good or Bad, he makes no Excep<g ref="char:EOLhyphen"/>tion)</hi> much more the King
+<note n="1" place="margin">G. F<hi>'s Trial,</hi> &amp;c. <hi>p.</hi> 8. 1664.</note>.</p>
+               </div>
+            </div>
+            <div n="19" type="section">
+               <head>
+                  <hi>Section</hi> XIX.</head>
+               <div type="Quaker_opinions">
+                  <p>OH! what a Sincerity was once in the Na<g ref="char:EOLhyphen"/>tion! what a <hi rend="blackletterType">dirty naſty</hi> thing it would have been to have heard talk of a <hi>Houſe</hi> of <hi>LORDS</hi> among them
+<note n="1" place="margin">G. Fox <hi>to the Council of Officers,</hi> &amp;c. <hi>p.</hi> 7. 1659.</note>!</p>
+               </div>
+               <div type="contradictory_Quaker_opinions">
+                  <p>[<hi>But did not the Quakers talk of a Houſe of Lords, yea and ſolicit them too in</hi> 1693, that an Act might be paſſed that their ſolemn Affirmation might be accepted inſtead of an Oath? <hi>to which the Houſe of Lords conſented, notwithſtanding their</hi> dirty <hi>and</hi> naſty <hi>Language concerning them?</hi>]</p>
+               </div>
+            </div>
+            <div n="20" type="section">
+               <head>
+                  <hi>Section</hi> XX.</head>
+               <div type="Quaker_opinions">
+                  <p>IT was through Ignorance that the People <hi>ſubjected</hi> themſelves to <hi>Hereditary</hi> Gover<g ref="char:EOLhyphen"/>nours—or to the Government ſtanding in a ſingle Perſon <hi>ſucceſſively</hi> — and our Nation hath been under the Bonds of Slavery in this reſpect
+<note n="1" place="margin">E. Bur. <hi>Advice to the Parliament,</hi> 1659. <hi>but this Paper is left out in his Works,</hi> 1672.</note>, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div type="contradictory_Quaker_opinions">
+                  <p>
+                     <hi>AND when the Times were turn'd</hi> G. F. <hi>ſaid,</hi> 1. If I could take any <hi>Oath</hi> at all, I could take that <hi>Oath</hi>
+                     <note n="1" place="margin">G. Fox<hi>'s Trial,</hi> &amp;c. <hi>p.</hi> 10. 1664.</note>, (<hi>viz.</hi> the Oath of <hi>Al<g ref="char:EOLhyphen"/>legiance</hi>) <hi>which</hi> Oath <hi>doth bind to the King, his Heirs and Succeſſors; and if this be not contra<g ref="char:EOLhyphen"/>dicting and temporizing, what is? And in their</hi> Caſe of Oaths, 1673, <hi>p.</hi> 6. <hi>they ſay,</hi>
+                  </p>
+                  <p n="2">2. Our Hearts and Hands could Seal to the Subſtance, both of the Oaths of ALLEGI<g ref="char:EOLhyphen"/>ANCE and Supremacy.</p>
+               </div>
+            </div>
+            <div n="21" type="section">
+               <head>
+                  <hi>Section</hi> XXI.</head>
+               <div type="Quaker_opinions">
+                  <p n="1">1. ALL Kings and Emperors have ſprung up in the Night ſince the Days of the <hi>Apoſtles</hi> among the <hi rend="blackletterType">Antichriſts.</hi>
+                  </p>
+                  <p n="2">2. There was no King owned among the true Chriſtians, but ONLY amongſt the <hi>Apo<g ref="char:EOLhyphen"/>ſtates</hi> ſince Chriſt's Time.</p>
+                  <p n="3">3. They were all Traitors againſt Chriſt, that deſir'd an Earthly King.—The true Chri<g ref="char:EOLhyphen"/>ſtians
+<pb n="7" facs="tcp:191946:7"/>will not have any more Kings among them but Chriſt
+<note n="1" place="margin">
+                        <hi>See</hi> G. Fox<hi>'s Papers he writ to the Presbyterians, (who then were endeavouring the King's Reſtauration)</hi> p. 8, 5, 1659.</note>.</p>
+               </div>
+               <div type="contradictory_Quaker_opinions">
+                  <p n="1">1. WE love, own, and honour the King
+<note n="1" place="margin">
+                        <hi>A Declar.</hi> June 5. 1660. p. 4. <hi>by</hi> G. Fox <hi>and</hi> 12 <hi>more.</hi>
+                     </note>, <hi>&amp;c.</hi>
+                  </p>
+                  <p n="2">2. I honour all Men, much more the King
+<note n="2" place="margin">G. F<hi>'s Trial,</hi> &amp;c. <hi>p.</hi> 8.</note>.</p>
+                  <p n="3">3. If thou (viz. <hi>King Charles</hi>) take ſome ſpeedy Courſe for the Repealing thoſe cruel Laws—haply thou may'ſt be a <hi>Moſes</hi> to ſtand betwixt GOD and thy People
+<note n="3" place="margin">
+                        <hi>A Viſ. to the King,</hi> 1662. <hi>ſigned by</hi> Joſiah Coal, p. 7.</note>.</p>
+               </div>
+            </div>
+            <div n="22" type="section">
+               <head>
+                  <hi>Section</hi> XXII.</head>
+               <div type="Quaker_opinions">
+                  <p n="1">1. COME anſwer me, you <hi>Papiſts,</hi> Whence came your <hi>Creeds,</hi> but from factious and corrupted Councils, dyed in the <hi rend="blackletterType">Blood</hi> of thoſe that refuſed Conformity
+<note n="1" place="margin">William Penn<hi>'s Truth Exalted,</hi> &amp;c. <hi>p.</hi> 5. 1671.</note>? <hi>&amp;c.</hi>
+                  </p>
+                  <p n="2">2. Whether in caſe they could not be con<g ref="char:EOLhyphen"/>formed to, they would allow a TOLERA<g ref="char:EOLhyphen"/>TION were they POWERFUL? Whether in caſe they ſhould ſay YES, we ought to be<g ref="char:EOLhyphen"/>lieve them, ſince it is one of their moſt Sa<g ref="char:EOLhyphen"/>cred Maxims, <hi rend="blackletterType">not to keep Faith with Here<g ref="char:EOLhyphen"/>ticks,</hi> as was ſeen in the Caſe of thoſe of the Alpine Valleys, <hi>Jo. Hus,</hi> &amp;c. and in that they have in all Ages, brought ſo great a Deluge of <hi rend="blackletterType">Blood</hi> upon the European World?</p>
+                  <p n="3">3. Whether it be the Intereſt of the <hi>Engliſh Nation</hi> to ſubject her ſelf to a POPISH YOKE? Conſidering the incomparably <hi rend="blackletterType">bloody Maſſa<g ref="char:EOLhyphen"/>cres</hi> of that ſort of Men in ſeveral <hi>Reigns</hi>
+                     <note n="2" place="margin">W. Penn<hi>'s Caveat againſt Popery,</hi> &amp;c. <hi>p.</hi> 37, 38. 1670.</note>.</p>
+                  <p n="4">4. The Papal Intereſt is a Combination a<g ref="char:EOLhyphen"/>gainſt good Senſe, Reaſon, and Conſcience; and to introduce a blind Obedience, without, if not againſt, Conviction; and that <hi>Principle</hi> which introduces Implicit Faith, and blind O<g ref="char:EOLhyphen"/>bedience in <hi>Religion,</hi> will alſo introduce Im<g ref="char:EOLhyphen"/>plicit Faith and blind Obedience in <hi>Govern<g ref="char:EOLhyphen"/>ment;</hi> So that it is no more in the one than in the other, but the <hi>Will</hi> and <hi>Power</hi> of the <hi>Superior</hi> that ſhall be the <hi>Rule</hi> and <hi>Bond</hi> of our Subjection. This is that fatal Miſchief <hi>Popery</hi> brings with it to Civil Society, and for which ſuch Societies ought to be aware of it, and all that are <hi>Friends</hi> to it
+<note n="3" place="margin">W. P<hi>'s</hi> Eng. <hi>Int. in Choice of Parl. Men,</hi> p. 4. 1678/9.</note>.</p>
+                  <p n="5">5. Conſider the Nature and Diſpoſition of the Spirit of the Church of <hi>Rome,</hi> how it is not changed, but the ſelf-ſame that ever it was, <hi>viz.</hi> a Spirit of <hi rend="blackletterType">Murder</hi> and <hi rend="blackletterType">Cruelty</hi>—I ſay this ought to be conſider'd, even the Cru<g ref="char:EOLhyphen"/>elty of that Spirit, and what Danger there is to give way to the <hi rend="blackletterType">Exaltation</hi> of that Spirit, and to embrace it in the <hi>leaſt,</hi> whereby to give Occaſion to get into the <hi>Power</hi> and <hi>J<g ref="char:V">Ʋ</g>DG<g ref="char:EOLhyphen"/>MENT-SEAT;</hi> for if it doth, then <hi rend="blackletterType">Fire</hi> and <hi rend="blackletterType">Faggot, Killing</hi> and <hi rend="blackletterType">burning</hi> about Religion will openly appear again
+<note n="4" place="margin">
+                        <hi>See much more of this kind in</hi> E. B<hi>'s Works,</hi> p. 810.</note>.</p>
+               </div>
+               <div type="contradictory_Quaker_opinions">
+                  <p n="1">1. I Muſt alſo tell him, (i. e. <hi>the Church-of-England-man</hi>) I cannot admire his <hi>Wiſ<g ref="char:EOLhyphen"/>dom, Manners,</hi> or <hi>Juſtice,</hi> in his Reflections upon the <hi>Roman Catholicks,</hi> after the Aſſuran<g ref="char:EOLhyphen"/>ces of ſo great an ONE has given him and his Friends of their Security and Protection
+<note n="1" place="margin">
+                        <hi>The Penſilvanians Defence of the D. of</hi> Buck. <hi>Book,</hi> p. 26. 1685.</note>.</p>
+                  <p n="2">2. One thing I muſt ſay, <hi>Roman Catholicks</hi> have been Loyal in <hi>England</hi> and <hi>Holland</hi>—and who knows not, that they (i.e. <hi>Church-of-Eng<g ref="char:EOLhyphen"/>land</hi>) were ſuch as hardly knew how to pray without the <hi>Liturgy,</hi> that attempted to ex<g ref="char:EOLhyphen"/>clude the <hi>Preſumptive Heir</hi> to the <hi>Crown,</hi> upon the Score of his <hi>Religion</hi>
+                     <note n="2" place="margin">
+                        <hi>A Reply,</hi> &amp;c. <hi>by</hi> G. C. [i.e. Gulielmus Calamus, Anglicè <hi>William Penn</hi>] p. 22, 23. 1685.</note>?</p>
+                  <p n="3">3. I ſay, the Diſſenters were invited to the <hi>Share</hi> they had in <hi>oppoſition</hi> to <hi>Popery</hi> by <hi>Church<g ref="char:EOLhyphen"/>men</hi>
+                     <note n="3" place="margin">
+                        <hi>Animadverſions on the Apology,</hi> p. 3. 1687.</note>.</p>
+                  <p n="4">4. <hi rend="blackletterType">Violence</hi> and <hi rend="blackletterType">Tyranny</hi> are no natural Conſequences of <hi rend="blackletterType">Popery</hi>
+                     <note n="4" place="margin">
+                        <hi>Good Advice to the Church of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>p.</hi> 42. 1687.</note>.</p>
+                  <p n="5">5. Let me ask them (viz. <hi>Church of</hi> Eng<g ref="char:EOLhyphen"/>land) one Queſtion, Have they not often charged them [i. e. <hi>the Papiſts</hi>] with thoſe Doctrines, <hi>viz.</hi> 
+                     <hi rend="blackletterType">not keeping Faith with Here<g ref="char:EOLhyphen"/>ticks?</hi> Or, that <hi>They are not oblig'd,</hi> or <hi>do not account that of any Value or Tie to them that they promiſe to us</hi>
+                     <note n="5" place="margin">
+                        <hi>Advice to Proteſtant Diſſenters,</hi> p. 56. 1688.</note>? &amp;c.</p>
+                  <p n="6">6. We have been taught to entertain very hard Thoughts of their Religion; and as we learn'd to ſpeak, we ſtammer'd out, no <hi>Papiſt,</hi> no <hi>Popery:</hi> Whence ſprung this Averſion? mainly, I am ſure, from this Apprehenſion, that <hi rend="blackletterType">Blood</hi> and <hi rend="blackletterType">Cruelty</hi> attended it.</p>
+                  <p n="7">7. Let her ceaſe to be angry, (i. e. <hi>the Church of</hi> England) and rebuke her <hi>Sons</hi> very un<g ref="char:EOLhyphen"/>mannerly ſitting in Judgment upon, and cen<g ref="char:EOLhyphen"/>ſuring the King's Proceedings
+<note n="6" place="margin">
+                        <hi>Reaſons,</hi> &amp;c. <hi>p.</hi> 5, 6. <hi>printed</hi> 1687. <hi>(and approv'd) by Quakers.</hi>
+                     </note>, <hi>&amp;c.</hi>
+                  </p>
+                  <p n="8">8. We pray God to bleſs the King and his Royal Family
+<note n="7" place="margin">
+                        <hi>The Quakers Addreſs to K.</hi> James, <hi>April</hi> 1687.</note>, <hi>&amp;c.</hi>
+                  </p>
+                  <p n="9">9. We cannot but with grateful Hearts both admire and acknowledg the Providence of GOD, that made the King's retiring into our Country, [viz. <hi>Scotland</hi>] give a happy Turn to his Affairs, to the Defeating and Diſap<g ref="char:EOLhyphen"/>pointing the Deſigns of his Enemies.—We do juſtly conceive our ſelves oblig'd to praiſe GOD for his Goodneſs, in carrying him thrô and over all his Troubles
+<note n="8" place="margin">
+                        <hi>The Scotch Quakers Addreſs,</hi> June 1687.</note>.</p>
+               </div>
+            </div>
+            <div n="23" type="section">
+               <pb n="8" facs="tcp:191946:8"/>
+               <head>
+                  <hi>Section</hi> XXIII.</head>
+               <div type="Quaker_opinions">
+                  <p n="1">1. WE directed all People to the Spirit of the Lord GOD in them, and if that led them to fight, I had nothing againſt it. <hi>[This was ſpoken before a Court by one of their Mi<g ref="char:EOLhyphen"/>niſters, &amp; recorded in their Book of Outland-Letters.]</hi>
+                  </p>
+                  <p n="2">2. We have choſen the Son of GOD to be our King, and he hath choſen us to be his Peo<g ref="char:EOLhyphen"/>ple, and he might command thouſands and ten thouſands of his Servants at this Day to fight in his [i.e. <hi>Chriſt's</hi>] CAUSE
+<note n="1" place="margin">E. Bur. <hi>To the preſent diſtract. Nation,</hi> &amp;c. <hi>p.</hi> 8. 1659. <hi>but this is left out in his Works.</hi>
+                     </note>.</p>
+                  <p n="3">3. To thee, <hi>Oliver Cromwell,</hi> thus ſaith the LORD, I had choſen thee—to execute my Wrath upon my Enemies, and gave them to thy Sword, with which I FOUGHT, and ma<g ref="char:EOLhyphen"/>ny have I cut down by MY SWORD IN THY HAND
+<note n="2" place="margin">G. Roff. <hi>Righteouſneſs,</hi> &amp;c. <hi>p.</hi> 11. 1656.</note>.</p>
+                  <p n="4">4. If you had made Inquiſition for Blood, and to demand all the Inquiſitions in the whole Chriſtendom, whereby the Innocent Blood hath been ſhed, then all the People with one Conſent would have ſaid, <hi>Theſe be the Men that are gone out for GOD's CA<g ref="char:V">Ʋ</g>SE,</hi> pag. 3. Thouſands of US [i. e. <hi>Quakers</hi>] went in the Front of you, and were with you in the great<g ref="char:EOLhyphen"/>eſt Heat, <hi>p.</hi> 6. And if ever you Souldiers and true Officers come again into the Power of GOD which hath been loſt, never ſet up your <hi rend="blackletterType">Standard</hi> until you come to <hi rend="blackletterType">Rome,</hi> and it be a top of <hi rend="blackletterType">Rome,</hi> then there let your <hi rend="blackletterType">Standard</hi> ſtand
+<note n="3" place="margin">G. Fox, <hi>To the Council and Officers of the Army, and Souldiers,</hi> &amp;c. 1659.</note>, <hi>p.</hi> 8.</p>
+                  <p n="5">5. Let thy Souldiers go forth with a free willing Heart, that thou <hi>[Oliver Cromwell]</hi> may rock Nations as a Cradle, <hi>p.</hi> 37.</p>
+                  <p n="6">6. The LORD <hi>gave thee</hi> the <hi>Neck of Princes</hi> to tread upon, and their Dominions to inherit, <hi>p.</hi> 4. <hi>dated</hi> May 1657. And as for thy Father, the late Protector, <hi>[O.C.]</hi>—we know the LORD ſhew'd Favour to him, and gave him <hi>Strength, Wiſdom,</hi> and <hi>Valour,</hi> and a <hi>Right Spirit,</hi> and he was <hi>CALL'D OF GOD</hi> into that great Work
+<note n="4" place="margin">G. Fox <hi>and</hi> E. Bur. <hi>Counſel and Advice,</hi> &amp;c. <hi>to</hi> Oliv. <hi>&amp;</hi> Rich. Cromwell, <hi>printed</hi> 1659.</note>, <hi>&amp;c.</hi> p. 53.</p>
+                  <p>[See abundance more about Fighting in <hi>E. Bur.</hi> Works
+<note n="*" place="margin">
+                        <hi>From</hi> p. 536, <hi>to</hi> 540.</note>, and the Books quoted; but when the Government was ſettled upon King <hi>Charles,</hi> then they writ againſt all Wars and Fightings.]</p>
+               </div>
+               <div type="contradictory_Quaker_opinions">
+                  <p n="1">1. ALL bloody Principles and Practices, we (as to our own Particulars) do utterly deny, with all outward Wars and Strife, and fighting with outward Weapons for ANY END <hi>(mark)</hi> or under <hi>any Pretence whatſoever.</hi>—And we do certainly know, and ſo teſtify to the World, that the Spirit of Chriſt, which leads us into all Truth, will never move us to fight, and war againſt any Man with outward Weapons, neither for the Kingdom of Chriſt, nor for the Kingdoms of this World.—So thoſe that uſe any Weapon to fight for Chriſt, or for the Eſtabliſhing of his Kingdom or Go<g ref="char:EOLhyphen"/>vernment, both the Spirit, Principle and Pra<g ref="char:EOLhyphen"/>ctice in that, we deny
+<note n="1" place="margin">
+                        <hi>A Declaration from the Harmleſs and Innocent People of God called</hi> Quakers, <hi>ſigned by</hi> G. Fox <hi>and</hi> 11 <hi>more,</hi> 1660. p. 2, 3.</note>.</p>
+                  <p n="2">2. It is not lawful (in the Adminiſtration of the Goſpel) to fight againſt, or go to War with carnal Weapons in ANY WISE.—In the Adminiſtration of the Goſpel, it is on ALL OCCASIONS WHATSOEVER, unlawful to go to War, and fight with any Man with car<g ref="char:EOLhyphen"/>nal Weapons
+<note n="2" place="margin">
+                        <hi>Quakers Plea,</hi> &amp;c. 1661. <hi>p.</hi> 4, 5.</note>.</p>
+                  <p n="3">3. It is not lawful for ſuch who are come to the pure Adminiſtration of the Goſpel, to DE<g ref="char:EOLhyphen"/>FEND themſelves by Arms
+<note n="3" place="margin">R. Barcklay<hi>'s Apol.</hi> p. 407.</note>.</p>
+                  <p n="4">4. We cannot ſtrive with Weapons of War, nor with any carnal Weapons of War, either fight to <hi>defend</hi> or <hi>offend</hi>
+                     <note n="4" place="margin">
+                        <hi>The Quakers Remonſt.</hi> 1665. <hi>p.</hi> 14.</note>: [<hi>and yet would have defended</hi> R. Crom. <hi>and his</hi> Juſt Government.]</p>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="conclusion">
+            <p>I Shall now draw to a Concluſion, with a few of their own Words lately printed, <hi>viz. And this know for certain, that the way to recover the Deceived, is to lay open the DECEIVERS.</hi> [Tho. Elwood <hi>againſt</hi> G. Keith, <hi>p.</hi> 72. 1694.]</p>
+            <p>And tho this Saying of theirs may be a Warrant ſufficient for ſome others to UNMASK and DETECT them, yet I do hereby aſſure the Reader, it was never a Warrant ſufficient for me: For tho I was made to bear, and ſuffer their corrupt Doctrines and Practices many Years in ſecret, yet I durſt not dare to make them publick, till I believ'd I was call'd thereto, by the LORD of <hi>Life</hi> and <hi>Glory;</hi> whoſe Servant I am, whoſe Will I have done, and whoſe Reward I have received; for which my Soul doth bleſs, praiſe and magnify His NAME, who alone is worthy, ſaith</p>
+            <closer>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>
+                     <hi>Octob.</hi> 21. 1695.</date> [<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ged 67 <hi>laſt</hi> Auguſt.]</dateline>
+               <signed>J. P.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed 1696. and are to be ſold by <hi>J. Gwillim</hi> in <hi>Biſhopſgate-ſtreet,</hi> and <hi>S. Clark</hi> in <hi>George-Yard,</hi> Bookſellers.</p>
+         </div>
+         <div type="letter">
+            <pb n="9" facs="tcp:191946:8"/>
+            <head>This following is a Copy of a Letter which was ſent <hi>Jan.</hi> 5. 1696. to the Perſons hereafter nam'd, (with a printed Paper of their <hi>Contradictions,</hi> which are ſold by <hi>S. Clark</hi> in <hi>George-Yard,</hi> and <hi>J. Gwillim</hi> in <hi>Biſhopſgate-ſtreet</hi>).</head>
+            <opener>
+               <salute>
+                  <hi>William Penn, George Whitehead, Thomas Green,</hi> and the reſt of your Miniſters.</salute>
+            </opener>
+            <p>OFTEN, and many a time, have I been ſent amongſt you, with <hi>Line</hi> upon <hi>Line,</hi> and <hi>Precept</hi> upon <hi>Precept</hi>
+               <note n="*" place="margin">
+                  <hi>Moſt of which have I order'd</hi> (<hi>in the Account of my Life,</hi> &amp;c.) <hi>to be printed this Year</hi> 1696, <hi>but the ſaid Book not to be made publick till after my Death.</hi>
+               </note>. But to this Day you have ſtopped your Ears, and hardned your Hearts againſt whatever I was made to ſay unto you; and not only rejected thoſe <hi>Meſſages,</hi> but in a moſt groſs and vile manner vilified and abuſed the <hi>Meſſenger</hi>
+               <note n="†" place="margin">
+                  <hi>Who hath been made willing to ſpare for nei<g ref="char:EOLhyphen"/>ther</hi> PAINS <hi>or</hi> COST, <hi>ſo he might but diſcharge a good Conſcience to<g ref="char:EOLhyphen"/>wards GOD, towards you, and towards all Men.</hi>
+               </note>, both with your <hi>Tongues</hi> and <hi>Pens;</hi> and likewiſe much violence done to his Perſon, [even by your own Diſciples] who, ſeeing it pleaſed you, did frequently pull him down [and that in your ſight] and ſeveral times thruſt him out of the Meetings
+<note n="*" place="margin">Tho he had not ſpo<g ref="char:EOLhyphen"/>ken one word, nor given any ſort of Provocation.</note>; and not long ſince three or four of your Friends thruſt him out of the Yard, all along into the Street, not without reproaching him to the rude Rabble
+<note n="‖" place="margin">Only for giving away a few Papers.</note>; and <hi>Thomas Cox</hi> (Vintner) [was ſo zealous for you] that he purſued him out of ſeveral Streets
+<note n="*" place="margin">19 May <hi>laſt.</hi>
+               </note> and abuſed and defamed him to the People. I ſay, theſe things conſidered, with your Friends not being permitted to receive any Books or Papers from me, but charg'd to tear them, which they did, put me on ſerious Thoughts, whether I might not ſend you a few of theſe incloſed Papers, rather than farther to expoſe my ſelf (at this time) to the Rage and Fury of you and your Friends; and finding no neceſſity laid upon me to the contrary [at preſent] I have freedom thus to ſend them.</p>
+            <p>Your CONTRADICTIONS are placed in two Columns; and tho you have not hearkned to what I have been made to deliver to you, yet it may be you will give ear to what your own Preachers have writ, (as is mention'd in the ſaid Paper) the which if you do, you may plain<g ref="char:EOLhyphen"/>ly ſee they were not, nor are not, acted by the Good Spirit of the ever Bleſſed JESUS
+<note n="*" place="margin">Who is my only and alone LORD, Law<g ref="char:EOLhyphen"/>giver, and Saviour.</note>, but by an Erring, Fallible, Deceivable, and Tempo<g ref="char:EOLhyphen"/>rizing Spirit; which ought to be diſown'd, and teſtified againſt, by all that are call'd thereto, as hath been,</p>
+            <closer>
+               <signed>Your true-hearted Friend without flattery, <hi>John Pennyman.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="continuation_of_letter">
+            <p>WHerein you have erred, be not aſham'd to confeſs, and return; for however you are filled with confidence of your ſelves, you are fully ſeen to others: You have loſt your Glory, it cannot be hid: The SUBSTANCE is departed, tho the <hi rend="blackletterType">Shadows</hi> remain: Therefore let Humility, and unfeigned Repentance, be found amongſt you; that <hi>Glory</hi> may be given to HIM who is the Searcher of all Hearts.</p>
+            <p>Fret not at <hi>Inſtruments,</hi> neither look ſo much at them as at that <hi>Righteous HAND</hi> that is tur<g ref="char:EOLhyphen"/>ned againſt you: For it is certainly ſo, that thoſe who once knew the Way of the LORD, and afterwards gave way to the Spirit of Evil, Deceit, Hypocriſy, and Formality; <hi>ſuch</hi> are more to be teſtify'd againſt, than the very Heathen, or open Profane; <hi rend="blackletterType">falſe Brethren</hi> are moſt perilous, and <hi rend="blackletterType">Hypocrites</hi> moſt odious in the ſight of GOD and all good Men.</p>
+            <p>The LORD is no reſpecter of Perſons, whoſe Will is that <hi rend="blackletterType">hidden Things</hi> ſhould come to light, not to caſt off, but if poſſible to ſave.</p>
+            <p>The AX therefore is to be laid to the Root of every <hi rend="blackletterType">corrupt Tree,</hi> that the Chaff from the Wheat may be ſeparated.</p>
+            <p>This latter Part was formerly [and now is] writ in that Spirit, that can <hi>[with delight]</hi> love, and forgive Enemies; but hates Iniquity and Hypocriſy in deareſt Friends.</p>
+         </div>
+         <div type="postscript">
+            <pb n="10" facs="tcp:191946:9" rendition="simple:additions"/>
+            <head>POSTSCRIPT.</head>
+            <argument>
+               <p>Here are a few of the [Legion of] ſcurrilous Names and Curſes (with other Abuſes) you have vented forth againſt an Innocent and Sober Man, and one who would not willingly wrong you, nor any Man living, <hi>viz.</hi>
+               </p>
+            </argument>
+            <p>
+               <hi rend="blackletterType">GRinning Dog, whifling Cur, bark<g ref="char:EOLhyphen"/>ing Dog</hi>
+               <note n="(a)" place="margin">
+                  <hi>W. G. Jaſper Bat,</hi> in their Sermons.</note>. The <hi rend="blackletterType">Devil's Agent, the Devil's Emiſſary</hi>
+               <note n="(b)" place="margin">
+                  <hi>James Parks</hi> in his Sermons.</note> The <hi rend="blackletterType">Devil's Drudg</hi>
+               <note n="(c)" place="margin">An antient Quaker.</note>. <hi rend="blackletterType">The chief of the Devils</hi>
+               <note n="(d)" place="margin">One of your Hearers.</note> 
+               <hi rend="blackletterType">The Devil's Porter, ſetting open the Gates of Hell,</hi> &amp;c
+<note n="(e)" place="margin">In a Letter, <hi>G. F.</hi> ſuppoſed to be the Au<g ref="char:EOLhyphen"/>thor.</note>. <hi rend="blackletterType">Vaſſal of Hell,</hi> and <hi>Bondſtave of the Devil,</hi> &amp;c
+<note n="(f)" place="margin">In another Letter from <hi>C. P.</hi>
+               </note> 
+               <hi rend="blackletterType">Thou curſed Serpent, thou art curſed for ever</hi>
+               <note n="(g)" place="margin">
+                  <hi>Anthony Tomkins</hi> another of your Mini<g ref="char:EOLhyphen"/>ſters, [uttered this <hi>Curſe</hi> upon <hi>J.P</hi>'s ſaying (af<g ref="char:EOLhyphen"/>ter <hi>Hallelujab Fiſher</hi> had done his Sermon at the <hi>Bull</hi> Meeting) <hi>Decemb.</hi> 15. 1676. viz. <hi>It is good for every one to have Salt in themſelves</hi>].</note>. <hi rend="blackletterType">I am moved of the Eternal GOD to pronounce Woes and Iudgments a<g ref="char:EOLhyphen"/>gainſt him,</hi> &amp;c
+<note n="(h)" place="margin">
+                  <hi>Charles Marſhal</hi> in his Sermon at the ſame Place, <hi>April</hi> 1673.</note>. <hi rend="blackletterType">GOD's Power will choak thee.</hi> This <hi>G. W.</hi> alſo declar'd in the Name of the LORD
+<note n="(i)" place="margin">
+                  <hi>George Whitehead</hi> at <hi>Gracechurch-ſtreet</hi> Meeting, from the Preach<g ref="char:EOLhyphen"/>ing-place.</note>. <hi rend="blackletterType">Without natural Affection. Wolf, Dog, Betray<g ref="char:EOLhyphen"/>ing Iudas, Devil-Incarnate,</hi> &amp;c
+<note n="(k)" place="margin">
+                  <hi>G. W.</hi> Book, <hi>Judgment fixt,</hi> &amp;c. Preface.</note>. <hi rend="blackletterType">Devil-driven, dungy-God, Iudas, Athe<g ref="char:EOLhyphen"/>iſt,</hi> &amp;c
+<note n="(l)" place="margin">Your Book intituled, <hi>Righ<g ref="char:EOLhyphen"/>teous Judgment,</hi> ſigned by <hi>Ro. Sandeland,</hi> ano<g ref="char:EOLhyphen"/>ther of your Miniſters, and recommend<g ref="char:EOLhyphen"/>ed by <hi>G. W.</hi> 1682.</note>. <hi rend="blackletterType">Runagade, Vagabond, creep<g ref="char:EOLhyphen"/>ing Iudas,</hi> &amp;c
+<note n="(m)" place="margin">Your Book, <hi>Judas and the Jews,</hi> &amp;c. 1673.</note>. <hi rend="blackletterType">Ignorant Novice;</hi> and at another time laid violent Hands upon him,
+<note n="(n)" place="margin">
+                  <hi>Francis Cam<g ref="char:EOLhyphen"/>field,</hi> [and this he did without the leaſt pro<g ref="char:EOLhyphen"/>vocation, ſave that <hi>J. P.</hi> was going to ſtand on the Form whereon he ſat; and the other time when he did ſtand up, but had not ſpo<g ref="char:EOLhyphen"/>ken one word.]</note>. <hi rend="blackletterType">Vnclean, naſty Spi<g ref="char:EOLhyphen"/>rit,</hi> &amp;c
+<note n="(o)" place="margin">
+                  <hi>Ambroſe Rigg</hi> in his Ser<g ref="char:EOLhyphen"/>mon, <hi>Nov.</hi> 23. 1680.</note>. <hi rend="blackletterType">Inſtigated by the Devil in the Spirit that would murder Chriſt; bro<g ref="char:EOLhyphen"/>ken and diſcompos'd in his Mind and Vn<g ref="char:EOLhyphen"/>derſtanding,</hi> &amp;c
+<note n="(p)" place="margin">Your Paper prin<g ref="char:EOLhyphen"/>ted <hi>Aug.</hi> 10. 1670. [againſt <hi>J. P.</hi> for his cau<g ref="char:EOLhyphen"/>ſing your Books to be thrown down, near the place where he burnt a little Waſte-paper, at the <hi>Exchange</hi>].</note>. [And the very next Day, (<hi>viz.</hi> July 29. 1670.) after their Books were thrown down at the <hi>Ex<g ref="char:EOLhyphen"/>change, G. W.</hi> writ to him thus; <hi rend="blackletterType">Thou haſt brought a great Reproach and Suf<g ref="char:EOLhyphen"/>fering upon Friends, by this thy mad and wicked Action, unto which the Devil in<g ref="char:EOLhyphen"/>ſtigated and led thee, for thou haſt undertaken (as the Perſecutors us'd to do) to burn</hi> OUR BOOKS, <hi>&amp;c.</hi>] <hi rend="blackletterType">Craz'd, crackt-brain'd, diſtracted,</hi> &amp;c
+<note n="(q)" place="margin">Theſe Appellations you and your Friends gave him ſeveral Years to<g ref="char:EOLhyphen"/>gether, [tho 'tis certainly true he never had a better Underſtanding given him, in all his Life, notwithſtanding you thus moſt infamou<g ref="char:EOLhyphen"/>ſly ſcandaliz'd him].</note>. And at one of the laſt Meetings he was at at <hi>Ratcliff,</hi> after <hi>James Parks</hi> had much invey'd againſt him in his Sermon, calling him the <hi rend="blackletterType">Devil's Agent,</hi> the <hi rend="blackletterType">Devil's Emiſſary,</hi> (after his uſual manner) [he <hi>(J. P.)</hi> ſtood up with an intent to have ſpoken one Verſe of Scripture; but before he had ſpoken ſix Words] one of your Friends pull'd him down with great violence, and told the People, he was one of the <hi rend="blackletterType">wickedeſt of Men,</hi> that he was a <hi rend="blackletterType">Limb of the Devil,</hi> and <hi rend="blackletterType">deſerv'd to be whipt at the Cart's Arſs,</hi> &amp;c
+<note n="(r)" place="margin">
+                  <hi>Henry Sutton</hi> (Maſter of a Ship) <hi>Dec.</hi> 11. 1692.</note>. And notwithſtanding theſe and
+<pb n="11" facs="tcp:191946:9"/>all other your Revilings, <hi>&amp;c.</hi> yet he did not in the leaſt revile again, it being not for any Evil, but for Well-doing that he was thus defamed and abuſed by you, which made him bear all patiently, committing himſelf to HIM that judgeth righteouſly; who as HE hath already, in a great meaſure, ſo aſſuredly HE will more and more clear up his Innocency.</p>
+            <div type="continuation_of_postscript">
+               <head>I thought I ſhould have ended here, but find I may not omit what follows, <hi>viz.</hi>
+               </head>
+               <p>One of your Miniſters thruſt his Stick with that Violence into his Side, [tho it did not pierce the Fleſh] that forced him off the Step whereon he ſtood, and pre<g ref="char:EOLhyphen"/>ſently after ſtrook him on the Face
+<note n="(s)" place="margin">
+                     <hi>J. B.</hi> did this ſtanding on your Preach<g ref="char:EOLhyphen"/>ing-place, at the <hi>Bull,</hi> &amp;c. 1680. [without the leaſt provocation, but only for his ſaying, viz. <hi>He that loveth not his Friend, cannot be ſaid to love his Enemy</hi>].</note>.</p>
+               <p>Another of your Miniſters, altogether a Stranger to him, told the People (in his Sermon) that he was a Companion of one <hi>W. B.</hi> who, it ſeems, had been one of your Miniſters; but, as he ſaid, was turn'd a common Cheat, and that he would have raviſhed a Woman
+<note n="(t)" place="margin">
+                     <hi>James Holliday,</hi> at a yearly Meeting at <hi>Gracechurch-ſtreet;</hi> who being told of this his A buſe and falſe Accuſation, and that it was expected he ſhould publickly acknowledg the Wrong done therein, he replied, That <hi>unleſs the LORD required it of him, he would not do it.</hi>
+                  </note>.</p>
+               <p>After this two other of your Friends, from the ſame place, affirmed, that he was converſant and intimate with one <hi>John Tayler</hi> a Ranter, who, they ſaid, had hang'd himſelf, being guilty (as ſome of your Miniſters declar'd) of moſt horrid Wickedneſs, as Blaſphemy, Whoredom, Drun<g ref="char:EOLhyphen"/>kenneſs, and the like
+<note n="(u)" place="margin">
+                     <hi>Thomas Ruddiard</hi> and <hi>William Briggins</hi> from the ſaid Preaching-place, <hi>Auguſt</hi> 24. 1681.</note>; when as he never was in company with the ſaid <hi>J. T.</hi> but was wholly a Stranger to him, as he then declar'd.</p>
+               <p>But why is it (may ſome of you ſay) that theſe things are thus reviv'd, and brought upon us now? One Reaſon chiefly is, that if poſſible, at length, you may come to ſee, and be made ſenſible, that 'tis not the Spirit of <hi>Chriſt,</hi> (for He Bleſt, but did not Curſe; He was revil'd, and did not revile) but the Spirit of Antichriſt, that hath bewitched and ſeduced you from the Simplicity and Innocency of Chriſt's Spirit, by which all the Holy Men of old were, and all the Holy Men are, at this Day, acted and guided. O that yet you would conſider your Ways, and be wiſe, that ſo you may no longer be deceived your ſelves, nor any longer de<g ref="char:EOLhyphen"/>ceive others, with your Pretences of being the ONLY Miniſters of Chriſt, and of being guided by His Spirit, unto which you are as yet Strangers. O reject not, O deſpiſe not the Counſel herein given you, leſt hereafter it be requir'd at your hands. </p>
+               <closer>
+                  <signed>J. P.</signed> 
+                  <dateline>
+                     <date>
+                        <hi>Newyears Day,</hi> 1696.</date>
+                  </dateline>
+                  <hi>Note,</hi> The words within theſe Marks [ ] in this <hi>Poſtſcript,</hi> were added ſince this Letter was ſent.</closer>
+            </div>
+         </div>
+         <div type="authors_note">
+            <p>I Little thought that the aboveſaid <hi>Abuſes</hi> ſhould ever have come to be printed, (eſpecially in my Life-time) for I lock'd them up, chiefly, <hi>in my own Breaſt,</hi> as a great Treaſure, re<g ref="char:EOLhyphen"/>joicing in the Secret of my Soul, that the LORD counted me worthy to ſuffer, and to have all manner of Evil ſpoke againſt me [falſly] for his Name ſake. But the time being come, that they are no longer to be hid, they are thus made publick.</p>
+         </div>
+         <div type="message_for_Quakers">
+            <pb n="12" facs="tcp:191946:10"/>
+            <head>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>is following is chiefly intended for, and recommended to the ſerious peruſal of the People called <hi>Quakers,</hi> whom it nearly concerns.</head>
+            <p>E<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>RY <hi>Diſpenſation</hi> hath but its Seaſon, wherein the <hi>Light</hi> of it is to <hi>ſhine;</hi> but after<g ref="char:EOLhyphen"/>wards it muſt be put out, and be buried in the Dark. And when this is out of date, Perſons are to be valued no more by it; but the higheſt in <hi>this Light</hi> and <hi>Worſhip,</hi> will be laid as even with the Meaneſt, as the higheſt and ſtricteſt <hi>Jews</hi> were (when their <hi>Diſpenſation</hi> fell) with the loweſt <hi>Gentiles.</hi>
+            </p>
+            <p>Little did <hi>Iſrael</hi> think they could have been ſo deceiv'd about the coming of the <hi>Meſſiah;</hi> little did they think the <hi>Meſſiah</hi> could have laid their <hi>Laws</hi> and <hi>Ordinances</hi> ſo flat at His coming as he did. It is impoſſible for the Eye of that Wiſdom [<hi>by which the Jews and the Quakers have judged,</hi> viz. <hi>only by outward appearance</hi>] to pierce into the various Ways and Appearances of GOD.</p>
+            <p>Nothing is darker than the foregoing Glory, when a new One ſucceeds; none are farther from eſpying GOD in a new Diſcovery, than <hi>(many of)</hi> thoſe that had the cleareſt ſight of HIM in the Old.</p>
+            <p>Look to your ſelves in time, leſt this <hi>ſtrange Cataſtrophe</hi> overtake you unawares.</p>
+            <p>
+               <hi>Diſpenſations,</hi> and the <hi>Fight</hi> under <hi>Diſpenſations,</hi> is not yet ended. We muſt contend, and remain ſtrange a while longer: There is a <hi>Gulf</hi> as yet between us, that we cannot meet. Ye cannot know me, if it were ſo that I knew you: You will proſecute me with Hatred, tho I ſhould woo you with the greateſt and entireſt Love. </p>
+            <closer>
+               <signed>J. P.</signed>
+            </closer>
+            <pb facs="tcp:191946:10"/>
+         </div>
+      </back>
+   </text>
+</TEI>
